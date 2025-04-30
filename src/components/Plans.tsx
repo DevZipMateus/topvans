@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Check, X } from 'lucide-react';
 import { useIsMobile } from '../hooks/use-mobile';
@@ -144,7 +145,7 @@ const Plans = () => {
                 </p>
                 
                 {/* CTA Button */}
-                <a href="https://wa.me/5511987654321" target="_blank" rel="noopener noreferrer" className="block text-center py-3 px-6 rounded-lg transition-colors duration-300 w-full bg-black hover:bg-neutral-900 text-amber-400">
+                <a href="https://wa.me/5517996490497" target="_blank" rel="noopener noreferrer" className="block text-center py-3 px-6 rounded-lg transition-colors duration-300 w-full bg-black hover:bg-neutral-900 text-amber-400">
                   <div className="flex items-center justify-center gap-2">
                     
                     <span>Solicitar Plano</span>
@@ -174,7 +175,7 @@ const Plans = () => {
           <p className="text-neutral-600 mb-4">
             Precisa de um plano personalizado para sua empresa?
           </p>
-          <a href="https://wa.me/5511987654321" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-6 py-3 bg-black hover:bg-neutral-900 text-amber-400 rounded-md transition-all duration-300 gap-2">
+          <a href="https://wa.me/5517996490497" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-6 py-3 bg-black hover:bg-neutral-900 text-amber-400 rounded-md transition-all duration-300 gap-2">
             
             <span>Solicitar proposta personalizada</span>
           </a>

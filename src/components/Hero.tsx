@@ -39,7 +39,7 @@ const Hero = () => {
             animationDelay: '0.3s'
           }}>
             <a 
-              href="https://wa.me/5517997620162" 
+              href="https://wa.me/5517996490497" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="bg-topvans-blue hover:bg-topvans-darkBlue text-white px-6 py-3 rounded-md transition-all flex items-center justify-center gap-2"
