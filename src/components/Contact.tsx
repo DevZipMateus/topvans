@@ -62,7 +62,7 @@ const Contact = () => {
             <div className="p-6 text-center">
               <h3 className="text-lg font-semibold text-neutral-900 mb-2">Instagram</h3>
               <p className="text-neutral-600 mb-4">Siga nossas redes sociais</p>
-              <a href="https://instagram.com/topvans.turismo" target="_blank" rel="noopener noreferrer" className="bg-topvans-black hover:bg-neutral-800 text-white px-6 py-2 rounded-md inline-flex items-center justify-center gap-2 transition-all font-medium">
+              <a href="https://instagram.com/topvans.turismos" target="_blank" rel="noopener noreferrer" className="bg-topvans-black hover:bg-neutral-800 text-white px-6 py-2 rounded-md inline-flex items-center justify-center gap-2 transition-all font-medium">
                 <span>@topvans.turismos</span>
               </a>
             </div>
