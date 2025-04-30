@@ -50,13 +50,13 @@ const Footer = () => {
               
               <div className="mt-4 pt-4 border-t border-white/10 w-full">
                 <a 
-                  href="https://instagram.com/topvans.turismo" 
+                  href="https://www.instagram.com/topvans.turismos" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="flex items-center justify-center md:justify-start hover:text-topvans-blue transition-colors"
                 >
                   <Instagram size={20} className="mr-2" />
-                  <span>@topvans.turismo</span>
+                  <span>@topvans.turismos</span>
                 </a>
               </div>
             </div>

@@ -50,7 +50,7 @@ const Header = () => {
           
           {/* Social Media Icons */}
           <div className="flex space-x-4">
-            <a href="https://instagram.com/topvans.turismo" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-topvans-blue transition-colors duration-300" aria-label="Instagram">
+            <a href="https://www.instagram.com/topvans.turismos" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-topvans-blue transition-colors duration-300" aria-label="Instagram">
               <Instagram size={18} />
             </a>
           </div>

@@ -7,7 +7,7 @@ const vehicles = [
     name: 'Vans Executivas',
     capacity: 'Até 16 passageiros',
     description: 'Vans modernas e confortáveis, ideais para grupos menores e com ar-condicionado, poltronas reclináveis e sistema de áudio.',
-    image: 'https://images.unsplash.com/photo-1616455546586-887304019940?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
+    image: '/lovable-uploads/a6d69b65-5aad-4b29-a88d-f3505efe60fd.png',
     delay: '0s'
   },
   {
