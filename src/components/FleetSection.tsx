@@ -15,7 +15,7 @@ const vehicles = [
     name: 'Micro-ônibus',
     capacity: 'Até 28 passageiros',
     description: 'Veículos espaçosos com maior capacidade, perfeitos para grupos médios e equipados com ar-condicionado, poltronas reclináveis e bagageiro.',
-    image: 'https://images.unsplash.com/photo-1570125909232-eb263c188f7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
+    image: '/lovable-uploads/ducato-por-do-sol_13_384405-168554791638323.jpeg',
     delay: '0.1s'
   },
   {
