@@ -7,7 +7,7 @@ const vehicles = [
     name: 'Vans Executivas',
     capacity: 'Até 16 passageiros',
     description: 'Vans modernas e confortáveis, ideais para grupos menores e com ar-condicionado, poltronas reclináveis e sistema de áudio.',
-    image: '/lovable-uploads/a6d69b65-5aad-4b29-a88d-f3505efe60fd.png',
+    image: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
     delay: '0s'
   },
   {
@@ -15,7 +15,7 @@ const vehicles = [
     name: 'Micro-ônibus',
     capacity: 'Até 28 passageiros',
     description: 'Veículos espaçosos com maior capacidade, perfeitos para grupos médios e equipados com ar-condicionado, poltronas reclináveis e bagageiro.',
-    image: '/lovable-uploads/ducato-por-do-sol_13_384405-168554791638323.jpeg',
+    image: 'https://images.unsplash.com/photo-1570125909232-eb263c188f7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80',
     delay: '0.1s'
   },
   {
@@ -23,7 +23,7 @@ const vehicles = [
     name: 'Ônibus Executivo',
     capacity: 'Até 46 passageiros',
     description: 'Ônibus de grande porte para grupos numerosos, com máximo conforto, ar-condicionado, banheiro, TV e poltronas reclináveis.',
-    image: '/lovable-uploads/ducato-por-do-sol_13_384405-168554791638323.jpeg',
+    image: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
     delay: '0.2s'
   }
 ];
