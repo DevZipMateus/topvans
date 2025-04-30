@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -62,13 +63,14 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				corporate: {
-					blue: '#1a1a1a', // Black for primary elements (60%)
-					lightBlue: '#d4af37', // Gold for secondary elements (30%)
-					darkBlue: '#111111', // Darker black for variation (60%)
-					gray: '#f8f9fa', // Light background
-					darkGray: '#343a40', // Dark text
-					accent: '#a67c00', // Darker gold for accents (10%)
+				topvans: {
+					blue: '#4BB6FA', // Azul da logo
+					darkBlue: '#0A84D6', // Variação mais escura do azul
+					lightBlue: '#7AC7FA', // Variação mais clara do azul
+					black: '#000000', // Preto para contraste
+					white: '#FFFFFF', // Branco
+					gray: '#F8F9FA', // Cinza claro para backgrounds
+					darkGray: '#343A40', // Cinza escuro para textos
 				}
 			},
 			borderRadius: {
