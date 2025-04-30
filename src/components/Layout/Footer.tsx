@@ -25,7 +25,7 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start justify-center md:justify-start">
                 <Phone className="mr-3 mt-1 flex-shrink-0" size={18} />
-                <span>(17) 99762-0162</span>
+                <span>(17) 99649-0497</span>
               </li>
               <li className="flex items-start justify-center md:justify-start">
                 <a href="mailto:topvansturismo@hotmail.com" className="hover:text-topvans-blue transition-colors">

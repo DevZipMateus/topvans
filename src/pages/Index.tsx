@@ -24,7 +24,7 @@ const Index = () => {
       "image": window.location.origin + "/lovable-uploads/25251098-fff7-4bff-bf39-e72ba91e2910.png",
       "@id": "",
       "url": window.location.origin,
-      "telephone": "+5517997620162",
+      "telephone": "+5517996490497",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Rua José Tibúrcio de Souza, 871",

@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Phone, MapPin, Instagram } from 'lucide-react';
 import { useIsMobile } from '../hooks/use-mobile';
@@ -30,7 +31,7 @@ const Contact = () => {
             <div className="p-6 text-center">
               <h3 className="text-lg font-semibold text-neutral-900 mb-2">WhatsApp</h3>
               <p className="text-neutral-600 mb-4">Atendimento rápido e prático</p>
-              <a href="https://wa.me/5517997620162" target="_blank" rel="noopener noreferrer" className="bg-topvans-black hover:bg-neutral-800 text-white px-6 py-2 rounded-md inline-flex items-center justify-center gap-2 transition-all font-medium">
+              <a href="https://wa.me/5517996490497" target="_blank" rel="noopener noreferrer" className="bg-topvans-black hover:bg-neutral-800 text-white px-6 py-2 rounded-md inline-flex items-center justify-center gap-2 transition-all font-medium">
                 <span>Enviar mensagem</span>
               </a>
             </div>
@@ -46,8 +47,8 @@ const Contact = () => {
             <div className="p-6 text-center">
               <h3 className="text-lg font-semibold text-neutral-900 mb-2">Telefone</h3>
               <p className="text-neutral-600 mb-4">Fale diretamente conosco</p>
-              <a href="tel:+5517997620162" className="bg-topvans-black hover:bg-neutral-800 text-white px-6 py-2 rounded-md inline-flex items-center justify-center gap-2 transition-all font-medium">
-                <span>(17) 99762-0162</span>
+              <a href="tel:+5517996490497" className="bg-topvans-black hover:bg-neutral-800 text-white px-6 py-2 rounded-md inline-flex items-center justify-center gap-2 transition-all font-medium">
+                <span>(17) 99649-0497</span>
               </a>
             </div>
           </div>
