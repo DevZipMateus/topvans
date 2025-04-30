@@ -23,7 +23,7 @@ const vehicles = [
     name: 'Ônibus Executivo',
     capacity: 'Até 46 passageiros',
     description: 'Ônibus de grande porte para grupos numerosos, com máximo conforto, ar-condicionado, banheiro, TV e poltronas reclináveis.',
-    image: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
+    image: '/lovable-uploads/ducato-por-do-sol_13_384405-168554791638323.jpeg',
     delay: '0.2s'
   }
 ];
