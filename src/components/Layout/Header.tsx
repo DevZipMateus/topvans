@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { Instagram, Phone, MapPin, Menu, X } from 'lucide-react';
+import { Instagram, Phone, MapPin, Menu, X, Mail } from 'lucide-react';
 import { useIsMobile } from '../../hooks/use-mobile';
 
 const Header = () => {
